@@ -8,6 +8,6 @@ Restaurent_Bill_Calculator/Screenshot (144).png
 
    <body>
       <img src="Screenshot (144).png" alt="Our_App" width="1000"
-         height="800">
+         height="600">
    </body>
 </html>
