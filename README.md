@@ -7,7 +7,7 @@ Restaurent_Bill_Calculator/Screenshot (144).png
 <html>
 
    <body>
-      <img src="Screenshot (144).png" alt="Simply Easy Learning" width="200"
-         height="80">
+      <img src="Screenshot (144).png" alt="Our_App" width="1000"
+         height="800">
    </body>
 </html>
